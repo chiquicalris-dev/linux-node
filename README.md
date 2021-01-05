@@ -1,4 +1,4 @@
-# raspberry
+# Instalacion Node.js en raspberry
 Configuración de raspberry pi con node.js
 
 ## Activación del protocolo SSH
