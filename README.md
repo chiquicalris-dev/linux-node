@@ -1,4 +1,4 @@
-# Instalacion Node.js en un sistema linux 
+# Instalacion Node.js en un sistema linux  
 Configuración de un sistema linux con node.js
 
 ## Activación del protocolo SSH (OPCIONAL)
