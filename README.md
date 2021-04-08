@@ -6,7 +6,7 @@ La activación del protocolo SSH se ejecuta mediante el uso del siguiente comand
 
 ## Actualización de los paquetes
 Tras habernos conectados por SSH mediante algún programa como **Putty**, debemos actualizar todos nuestros sistemas mediante el comando `sudo apt update` y `sudo apt full-upgrade` 
- 
+  
 ## Ver nuestra versión de node y npm
 Para comprobar nuestra versión de node y de npm, debemos hacer uso de la función `-v`, por lo que deberemos ejecutar los comandos `node -v` y `npm -v`; probablemente os salga una versión de npm y node obsoleta, y como nosotros queremos la más reciente a continuación os explico como se descarga.
  
