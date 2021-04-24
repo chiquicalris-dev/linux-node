@@ -14,7 +14,7 @@ Para comprobar nuestra versión de node y de npm, debemos hacer uso de la funci�
 Lo primero que debemos hacer uso del comando `curl -sL https://deb.nodesource.com/setup_14.x -o nodesource_setup.sh`. posteriormente debemos ejecutar los comandos `nano nodesource_setup.sh` y editar el archivo para que quede como el que adjunto a continuación:
 ```
 SCRSUFFIX="_14.x"
-NODENAME="Node.js 14.x"
+NODENAME="Node.js 14.x" 
 NODEREPO="node_14.x"
 NODEPKG="nodejs"
 ```
