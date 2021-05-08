@@ -18,7 +18,7 @@ NODENAME="Node.js 14.x"
 NODEREPO="node_14.x"
 NODEPKG="nodejs"
 ```
-
+ 
 ## Instalación de node.js 
 Debemos ejecutar el comando `sudo bash nodesource_setup.sh`, y posteriormente instalar los paquetes de node.js `sudo apt-get install -y nodejs`.
 
