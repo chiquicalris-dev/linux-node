@@ -27,7 +27,7 @@ Finalmente para comprobar que hemos descargado de forma correcta debemos ejecuta
 
 ## No lo entendí... ¿Cómo puedo contactar contigo?
 Puedes abrirme una **issue** desde aquí, o puedes contactarme a través de mi servidor de Discord o a través de mi usuario de Discord, `Chiquicalris#1337`
-
+     
 ### Gracias por leer! 
 Agradecería que me apoyases dandome una estrella o siguiéndome, a continuación te dejo algunos links de utilidad:
 ✨ · *[Servidor de Discord](https://discord.gg/VPjePtWV6f)* 
