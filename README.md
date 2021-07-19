@@ -4,7 +4,7 @@ Configuración de un sistema linux con node.js
 ## Activación del protocolo SSH (OPCIONAL)   
 La activación del protocolo SSH se ejecuta mediante el uso del siguiente comando `sudo systemctl enable ssh`, tras esto, para poder conectarnos remotamente a nuestra raspberry deberemos ejecutar el comando `ifconfig` y nos mandará una serie de IPs, la que nosotros debemos usar es la wue está en el apartado *inet*
 
-## Actualización de los paquetes
+## Actualización de los paquetes 
 Tras habernos conectados por SSH mediante algún programa como **Putty**, debemos actualizar todos nuestros sistemas mediante el comando `sudo apt update` y `sudo apt full-upgrade` 
   
 ## Ver nuestra versión de node y npm
